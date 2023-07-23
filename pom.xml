@@ -14,7 +14,7 @@
 	<name>staj</name>
 	<description>Demo project for Infina Akademi 2023</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
